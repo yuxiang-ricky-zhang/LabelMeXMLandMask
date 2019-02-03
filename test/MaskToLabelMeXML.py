@@ -1,3 +1,7 @@
+'''
+Adapted from https://github.com/sacmehta/SegmentationMaskToXML
+'''
+
 import cv2
 import numpy as np
 import os
